@@ -172,7 +172,7 @@ const STYLES = {
 
 	async function main() {
 		const url = new URL(window.location.href);
-		const itemListTag = url.searchParams.get("gift")  === "1" ? "mb-40" : "mb-24";
+		const itemListTag = url.searchParams.get("gift") === "1" ? "mb-40" : "mb-24";
 
 		const itemListElements = Array.from(document.getElementsByClassName(itemListTag)[0].children);
 		itemListElements.pop();
@@ -181,7 +181,7 @@ const STYLES = {
 		itemList = itemList.filter((item) => item !== null);
 
 		if (itemList.length === 0) {
-			if (url.searchParams.get("gift") == "0") {
+			if (url.searchParams.get("gift") === "0") {
 				url.pathname = "/library/gifts";
 				url.searchParams.set("gift", "1");
 				url.searchParams.set("page", "1");
