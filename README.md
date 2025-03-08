@@ -20,4 +20,4 @@ Boothのライブラリからファイル名のデータベースを作成する
 
 ※Tampermonkeyなどのスクリプト管理拡張機能を先にインポートしておいてください！
 
-リンク: https://github.com/puk06/Booth-Library-Database-Maker/raw/refs/heads/main/Boothのライブラリからファイル名のデータベースを作成するツール-1.0.user.js
+リンク: https://github.com/puk06/Booth-Library-Database-Maker/raw/refs/heads/main/Boothのライブラリからファイル名のデータベースを作成するツール-1.1.user.js
