@@ -21,3 +21,7 @@ Boothのライブラリからファイル名のデータベースを作成する
 ※Tampermonkeyなどのスクリプト管理拡張機能を先にインポートしておいてください！
 
 リンク: https://github.com/puk06/Booth-Library-Database-Maker/raw/refs/heads/main/Boothのライブラリからファイル名のデータベースを作成するツール-1.1.user.js
+
+# ライセンス
+このスクリプトはぜるく氏の"Boothの購入履歴から累計散財額を計算するツール"を元に作られました
+MITライセンスの元で使用されています
